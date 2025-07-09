@@ -1,4 +1,6 @@
 # 🏥 Hospital Waitlist Monitoring Dashboard – Power BI
+![image](https://github.com/user-attachments/assets/4efab7bd-8ee3-4d2c-98aa-fa7744b0f6dd)
+
 
 ## 📌 Overview
 
